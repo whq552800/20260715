@@ -1,0 +1,10 @@
+﻿annual_metric,daily_input,derivation_or_threshold,unit,annual_aggregation
+Mean temperature,Daily mean 2-m temperature,T_C = T_K - 273.15,C,Annual mean
+Absolute humidity,Daily mean 2-m temperature and dewpoint,e = 6.112 exp[17.67 Td/(Td+243.5)]; AH = 216.7 e/T_K,g/m3,Annual mean of daily AH
+Relative humidity,Daily mean 2-m temperature and dewpoint,"es = 6.112 exp[17.67 T/(T+243.5)]; RH = 100 e/es, clipped to 0-100",%,Annual mean of daily RH
+Heat days,Daily maximum 2-m temperature,Indicator(Tmax >30 C),days/year,Annual count; strict >
+Cold days,Daily minimum 2-m temperature,Indicator(Tmin <0 C),days/year,Annual count; strict <
+Humid days,Derived daily RH,Indicator(RH >60%),days/year,Annual count; strict >
+Annual precipitation,Daily total precipitation,Sum of daily precipitation,mm/year,Annual sum
+Wet days,Daily total precipitation,Indicator(precipitation >1 mm),days/year,Annual count; strict >
+Diurnal temperature range,Daily maximum and minimum 2-m temperature,DTR = Tmax - Tmin,C,Annual mean of daily DTR

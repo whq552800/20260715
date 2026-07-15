@@ -1,0 +1,9 @@
+﻿age_group,age_label,measure,n_countries,same_profile_n,endpoint_profile_consistency_share
+70p,70+ years,DALYs,203,151,0.7438423645320197
+70p,70+ years,Deaths,203,153,0.7536945812807881
+70p,70+ years,Incidence,203,157,0.7733990147783252
+u5,Under-5,DALYs,203,146,0.7192118226600985
+u5,Under-5,Deaths,203,146,0.7192118226600985
+u5,Under-5,Incidence,203,118,0.5812807881773399
+70p,70+ years,YLLs,203,151,0.7438423645320197
+u5,Under-5,YLLs,203,146,0.7192118226600985

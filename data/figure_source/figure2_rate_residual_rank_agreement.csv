@@ -1,0 +1,9 @@
+﻿age_group,age_label,outcome,observed_benchmark_deviation_spearman
+u5,Under-5,Incidence,-0.07637189392657029
+u5,Under-5,Deaths,0.08087195274149263
+u5,Under-5,DALYs,0.07860686097586866
+u5,Under-5,YLLs,0.07939871066214127
+70p,70+ years,Incidence,0.5439763477941536
+70p,70+ years,Deaths,0.8861543934746997
+70p,70+ years,DALYs,0.8402256771605878
+70p,70+ years,YLLs,0.8412083167169225

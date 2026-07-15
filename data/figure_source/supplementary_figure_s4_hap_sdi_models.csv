@@ -1,0 +1,11 @@
+﻿Sequence,Model,Other contextual scores,Estimate (%),95% CI,P value,Country-years
+HAP-only model,HAP only,No,1.9,-4.6 to 8.8,0.581,6902
+HAP-only model,+ year fixed effects,No,1.9,-4.7 to 9.0,0.582,6902
+HAP-only model,+ linear SDI,No,7.4,-4.2 to 20.5,0.220,6902
+HAP-only model,Official M3 spline,No,18.9,4.1 to 35.7,0.011,6902
+Formal contextual model,Contextual scores,Yes,-3.7,-10.7 to 4.0,0.341,6902
+Formal contextual model,+ year fixed effects,Yes,-3.8,-11.0 to 4.0,0.333,6902
+Formal contextual model,+ linear SDI,Yes,13.9,1.5 to 27.9,0.027,6902
+Formal contextual model,+ quadratic SDI,Yes,15.6,2.7 to 30.2,0.016,6902
+Formal contextual model,+ cubic SDI,Yes,16.4,2.7 to 31.9,0.017,6902
+Formal contextual model,Official M3 spline,Yes,18.9,4.1 to 35.7,0.011,6902

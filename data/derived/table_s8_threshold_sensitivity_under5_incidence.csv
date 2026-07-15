@@ -1,0 +1,8 @@
+﻿rule,high_estimated_rate_n,large_positive_residual_n,double_high_n,high_estimated_rate_only_n,large_positive_residual_only_n,neither_n,large_positive_residual_jaccard_vs_primary_raw_set,double_high_jaccard_vs_primary,raw_rule_set_n_for_jaccard
+top33_deviation_rate,68,68,23,45,45,90,1.0,1.0,68
+top25_deviation_rate,68,51,19,49,32,103,0.75,0.826,51
+top20_deviation_rate,68,41,18,50,23,112,0.6029411764705882,0.783,41
+top33_log_deviation_ratio,68,68,17,51,51,84,0.7894736842105263,0.739,68
+top25_log_deviation_ratio,68,51,16,52,35,100,0.676056338028169,0.696,51
+ratio_gt_1_2,68,68,17,51,51,84,0.8026315789473685,0.739,69
+deviation_rate_gt_0,68,91,26,42,65,70,0.7555555555555555,0.885,90

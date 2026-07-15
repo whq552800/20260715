@@ -1,0 +1,9 @@
+﻿benchmark_variant,n_locations,observed_benchmark_spearman_rank_correlation,high_estimated_rate_threshold,large_positive_residual_threshold,high_estimated_rate_n,large_positive_residual_n,double_high_n,large_positive_residual_jaccard_vs_primary,double_high_jaccard_vs_primary,classification_scope
+lowess_year_frac035,203,0.7924249249033858,7330.71695103106,1103.8124848693192,68,68,43,0.5454545454545454,0.5348837209302325,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual
+sdi_quintile_year_median,203,0.776711787678939,7330.71695103106,841.3033276845824,68,68,37,0.5454545454545454,0.5,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual
+spline_df3,203,0.7924249249033858,7330.71695103106,649.7363241861207,68,68,23,1.0,1.0,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual
+spline_df4,203,0.7924249249033858,7330.71695103106,659.1284094512366,68,68,23,1.0,1.0,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual
+spline_df5,203,0.7924249249033858,7330.71695103106,568.0697897721063,68,68,21,0.9428571428571428,0.9130434782608695,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual
+spline_df6,203,0.7924249249033858,7330.71695103106,623.8893695546429,68,68,22,0.9428571428571428,0.9565217391304348,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual
+poly2,203,0.7924277939239883,7330.71695103106,857.0075882352453,68,68,23,0.9710144927536232,1.0,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual
+poly3,203,0.7924249249033858,7330.71695103106,649.7363241859902,68,68,23,1.0,1.0,2023 under-5 incidence; same 203-country upper tertile for rate and positive residual

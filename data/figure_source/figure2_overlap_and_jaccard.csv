@@ -1,0 +1,7 @@
+﻿age_group,age_label,severe_outcome,shared_n,incidence_only_n,severe_only_n,jaccard
+u5,Under-5,Deaths,39,29,29,0.4020618556701031
+u5,Under-5,DALYs,39,29,29,0.4020618556701031
+u5,Under-5,YLLs,39,29,29,0.4020618556701031
+70p,70+ years,Deaths,46,22,22,0.5111111111111111
+70p,70+ years,DALYs,47,21,21,0.5280898876404494
+70p,70+ years,YLLs,46,22,22,0.5111111111111111

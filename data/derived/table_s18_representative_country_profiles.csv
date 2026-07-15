@@ -1,0 +1,7 @@
+﻿age_label,profile,location_name,iso3,population_at_risk,incidence_benchmark_deviation,YLL_benchmark_deviation,incidence_p_high_deviation,DALY_p_high_deviation
+70+ years,incidence-only,India,IND,63508904.2126816,17399.463073463463,564.175450725942,1.0,0.106
+70+ years,severe-only,Republic of Korea,KOR,6024833.683568789,-1274.657991595012,2413.4753901404647,0.0,0.932
+70+ years,shared,Brazil,BRA,15162658.360460049,17131.76861865871,2537.24277900645,1.0,0.996
+Under-5,incidence-only,Pakistan,PAK,30828249.070843715,4550.189468446628,-1593.4972363662018,0.998,0.176
+Under-5,severe-only,Mexico,MEX,9191611.840562612,-3300.9924017202147,825.2574980999761,0.0,0.974
+Under-5,shared,Indonesia,IDN,21804804.67808735,1692.3633027675023,1836.5631735509733,0.984,0.964

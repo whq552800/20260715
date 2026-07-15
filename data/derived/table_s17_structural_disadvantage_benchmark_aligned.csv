@@ -1,0 +1,9 @@
+﻿flag,indicator,threshold_rule,family,n_flagged,n_available,pct_available_flagged,n_missing
+Low SDI (<0.5),sdi,Low SDI (<0.5),development,34,45,75.6,0
+High HAP-PM (>100),hap_pm_pw,High HAP-PM (>100),household energy,44,45,97.8,0
+Low clean cooking (<50%),clean_cooking_pct,Low clean cooking (<50%),household energy,39,45,86.7,0
+Low basic sanitation (<60%),basic_sanitation_pct,Low basic sanitation (<60%),WASH,30,44,68.2,1
+Low basic water (<80%),basic_water_pct,Low basic water (<80%),WASH,31,44,70.5,1
+Low DPT coverage (<80%),dpt_pct,Low DPT coverage (<80%),vaccination,23,45,51.1,0
+Low UHC index (<60),uhc_index,Low UHC index (<60),health system,38,45,84.4,0
+Three or more structural-disadvantage flags,combined,">=3 of low SDI, high HAP-PM, low clean cooking, low sanitation, low water, low DPT, low UHC",combined,39,45,86.7,0

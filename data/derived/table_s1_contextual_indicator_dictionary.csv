@@ -1,0 +1,28 @@
+﻿domain,indicator,analysis_variable,source_family,orientation,transform,definition
+Household energy / HAP,HAP-PM,hap_pm_pw,GBD risk-domain/pollution panel,higher,log1p,Population-weighted household-air-pollution particulate exposure
+Household energy / HAP,Clean cooking,clean_cooking_pct,World Bank/WHO contextual series,lower,none,Access to clean fuels and technologies for cooking
+Outdoor PM2.5,Outdoor PM2.5,pm25_pw,GBD risk-domain/pollution panel,higher,log1p,Population-weighted ambient PM2.5
+Thermal climate,Mean temperature,era5imp_tavg_C_pw_total,ERA5,higher = warmer,none,Annual mean daily 2-m air temperature
+Thermal climate,Heat days,era5imp_heat_days_tmax_gt30_pw_total,ERA5,higher = more hot days,none,Days with daily maximum 2-m temperature >30 C
+Thermal climate,Cold days,era5imp_cold_days_tmin_lt0_pw_total,ERA5,reversed,none,Days with daily minimum 2-m temperature <0 C; multiplied by -1 before scoring
+Thermal climate,Diurnal temperature range,era5imp_dtr_C_pw_total,ERA5,higher,none,Annual mean of daily Tmax minus Tmin
+Wetness / transmission,Absolute humidity,era5imp_ah_g_m3_pw_total,ERA5-derived,higher = more humid,none,"Annual mean daily absolute humidity, g/m3"
+Wetness / transmission,Relative humidity,era5imp_rh_pct_pw_total,ERA5-derived,higher = more humid,none,"Annual mean daily relative humidity, %"
+Wetness / transmission,Humid days,era5imp_humid_days_rh_gt60_pw_total,ERA5-derived,higher = more humid days,none,Days with daily mean RH >60%
+Wetness / transmission,Annual precipitation,era5imp_precip_mm_year_pw_total,ERA5,higher = wetter,log1p,"Annual total precipitation, mm"
+Wetness / transmission,Wet days,era5imp_wet_days_pr_gt1mm_pw_total,ERA5,higher = more wet days,none,Days with daily precipitation >1 mm
+WASH,Basic water,basic_water_pct,World Bank/WHO contextual series,lower,none,Use of at least basic drinking-water services
+WASH,Basic sanitation,basic_sanitation_pct,World Bank/WHO contextual series,lower,none,Use of at least basic sanitation services
+Immunisation / UHC,UHC index,uhc_index,WHO/World Bank contextual series,lower,none,UHC service coverage index
+Immunisation / UHC,DPT coverage,dpt_pct,WHO/World Bank contextual series,lower,none,DPT immunisation coverage
+Immunisation / UHC,Measles coverage,measles_pct,WHO/World Bank contextual series,lower,none,Measles immunisation coverage
+Immunisation / UHC,Hib3 coverage,hib3_pct,WHO/World Bank contextual series,lower,none,Third-dose Hib coverage
+Immunisation / UHC,PCV3 coverage,pcv3_pct,WHO/World Bank contextual series,lower,none,Third-dose pneumococcal conjugate vaccine coverage
+Health resources,Physicians,physicians_per1000,WHO/World Bank contextual series,lower,none,"Physicians per 1,000 population"
+Health resources,Nurses and midwives,nurses_midwives_per1000,WHO/World Bank contextual series,lower,none,"Nurses and midwives per 1,000 population"
+Health resources,Hospital beds,hospital_beds_per1000,WHO/World Bank contextual series,lower,none,"Hospital beds per 1,000 population"
+Health resources,Health expenditure,current_health_expenditure_pc_usd,WHO/World Bank contextual series,lower,log1p,"Current health expenditure per capita, US dollars"
+Nutrition,Stunting,stunting_u5_pct,WHO/World Bank contextual series,higher,none,Prevalence of stunting among children under 5
+Nutrition,Wasting,wasting_u5_pct,WHO/World Bank contextual series,higher,none,Prevalence of wasting among children under 5
+HIV/TB,HIV prevalence,hiv_15_49_pct,WHO/World Bank contextual series,higher,log1p,HIV prevalence among ages 15-49
+HIV/TB,TB incidence,tb_incidence_per100k,WHO/World Bank contextual series,higher,log1p,"Tuberculosis incidence per 100,000"

@@ -1,0 +1,10 @@
+﻿domain,n_indicators_panel_a,minimum_coverage_panel_a,panel_a_peer_relative_fingerprint,panel_b_parsimonious_score
+Household energy / HAP,2,At least 1,Yearly z; indicator-level SDI/year residual; mean,z[log(1 + HAP-PM)] only; re-standardised to SD=1. A HAP-PM plus reverse-oriented clean-cooking composite was evaluated separately in a 2000–2023 complete-case sensitivity.
+Outdoor PM2.5,1,1,Yearly z and peer residual,z[log(1 + PM2.5)]; empirical SD=1.
+Thermal climate,4,At least 2,"Mean temperature, heat days, reversed cold days, DTR",z[annual mean temperature]; empirical SD=1.
+Wetness / transmission,5,At least 3,"AH, RH, RH>60% days, log1p precipitation, wet days","Mean of z[absolute humidity], z[relative humidity], and z[RH >60% days], then re-standardised to empirical SD=1; precipitation was not included."
+WASH,2,At least 1,Panel-a fingerprint only,Not in parsimonious M1-M3
+Immunisation / UHC,5,At least 3,Panel-a fingerprint only,Not in parsimonious M1-M3
+Health resources,4,At least 2,Panel-a fingerprint only,Not in parsimonious M1-M3
+Nutrition,2,At least 1,Panel-a fingerprint only,Not in parsimonious M1-M3
+HIV/TB,2,At least 1,Panel-a fingerprint only,Not in parsimonious M1-M3

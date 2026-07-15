@@ -1,0 +1,7 @@
+﻿age_group,age_label,measure,modal_high_deviation_n,p_high_deviation_ge_0_8_n,p_high_deviation_ge_0_8_share
+70p,70+ years,DALYs,62,55,0.8870967741935484
+70p,70+ years,Deaths,69,52,0.7536231884057971
+70p,70+ years,Incidence,67,57,0.8507462686567164
+u5,Under-5,DALYs,69,52,0.7536231884057971
+u5,Under-5,Deaths,70,52,0.7428571428571429
+u5,Under-5,Incidence,68,58,0.8529411764705882

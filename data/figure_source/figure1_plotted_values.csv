@@ -1,0 +1,3 @@
+﻿age_group,age_label,outcome,n_locations,double_high,benchmark_aligned_high_burden,excess_only,neither,observed_vs_residual_spearman,high_observed_vs_high_excess_jaccard,display_profile_term
+u5,Under-5,Incidence,203,23,45,45,90,-0.0763718939265702,0.2035398230088495,plain-language display labels; source profile codes unchanged
+70p,70+ years,Incidence,203,41,27,27,108,0.5439763477941536,0.431578947368421,plain-language display labels; source profile codes unchanged

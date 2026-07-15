@@ -1,0 +1,204 @@
+﻿location_name,iso3,primary_high_deviation,primary_profile,n_large_positive_residual_across_benchmarks,n_benchmark_variants,benchmark_stability_share,primary_benchmark_deviation,population_at_risk,benchmark_relative_number_difference,profiles_across_benchmarks
+American Samoa,ASM,True,large positive residual only,8,8,1.0,3121.5965371521097,3651.119425222068,113.97321754502008,large positive residual only
+Bahrain,BHR,True,large positive residual only,8,8,1.0,3005.860663631478,86685.92062033969,2605.6579888335987,large positive residual only
+Botswana,BWA,True,large positive residual only,8,8,1.0,1847.1662143066187,250631.51595206367,4629.580685071023,large positive residual only
+Brazil,BRA,True,large positive residual only,8,8,1.0,1105.6993530613245,14859303.735733423,164299.2252754217,large positive residual only
+Cook Islands,COK,True,large positive residual only,8,8,1.0,3992.374123358892,1097.4831391660073,43.815632856290534,large positive residual only
+Egypt,EGY,True,double-high,8,8,1.0,2940.9461957742114,12489621.99508598,367313.0629310603,double-high
+Fiji,FJI,True,double-high,8,8,1.0,2929.257881273046,89236.93089809861,2613.979831338736,double-high
+Guam,GUM,True,double-high,8,8,1.0,5360.14907665448,11501.43997297156,616.4943285132044,double-high
+India,IND,True,double-high,8,8,1.0,1088.46044535268,110034436.90795527,1197681.3220096435,double-high
+Indonesia,IDN,True,large positive residual only,8,8,1.0,1692.3633027675924,21804804.67808735,369016.5126121016,large positive residual only
+Iraq,IRQ,True,large positive residual only,8,8,1.0,853.0803371690781,4682545.005170832,39945.87071820516,large positive residual only
+Jordan,JOR,True,large positive residual only,8,8,1.0,3090.9591441865496,1144922.6446462888,35389.09117855694,large positive residual only
+Kenya,KEN,True,double-high,8,8,1.0,4763.317708720404,5942969.0896937335,283082.4990731614,double-high
+Kuwait,KWT,True,double-high,8,8,1.0,9303.73846254084,249635.135122896,23225.400082444674,double-high
+Lebanon,LBN,True,large positive residual only,8,8,1.0,3018.516041138127,422803.3835749697,12762.387955685226,large positive residual only
+Lesotho,LSO,True,double-high,8,8,1.0,5809.127067172563,202836.4666615628,11783.028086933296,double-high
+Libya,LBY,True,double-high,8,8,1.0,4641.417245475253,578452.684478432,26848.402654296497,double-high
+Malaysia,MYS,True,large positive residual only,8,8,1.0,3904.90255046414,2303385.8612779286,89944.97324407223,large positive residual only
+Marshall Islands,MHL,True,double-high,8,8,1.0,2968.24457305705,4424.283248285915,131.32354741391882,double-high
+Mauritius,MUS,True,double-high,8,8,1.0,4866.56483633895,63518.44090607205,3091.166109725638,double-high
+Nauru,NRU,True,double-high,8,8,1.0,4566.318673718728,1569.3162499428706,71.65998097084378,double-high
+Nigeria,NGA,True,double-high,8,8,1.0,1206.7803519700335,38782499.66255724,468019.5859305853,double-high
+Niue,NIU,True,double-high,8,8,1.0,4368.676897893671,115.54669246987956,5.047861660211874,double-high
+Northern Mariana Islands,MNP,True,large positive residual only,8,8,1.0,4049.928604884477,2750.7025515919463,111.40148947220942,large positive residual only
+Oman,OMN,True,large positive residual only,8,8,1.0,3294.969560071776,433831.9377868808,14294.630291947247,large positive residual only
+Pakistan,PAK,True,double-high,8,8,1.0,4550.189468446744,30828249.070843715,1402743.742528062,double-high
+Palau,PLW,True,large positive residual only,8,8,1.0,3600.194333162553,1027.3997140774393,36.98838628514424,large positive residual only
+Philippines,PHL,True,double-high,8,8,1.0,2769.0834417527794,10066510.671651265,278750.0801709717,double-high
+Poland,POL,True,large positive residual only,8,8,1.0,4634.432983521907,1769827.8624746564,82021.48621008621,large positive residual only
+Puerto Rico,PRI,True,large positive residual only,8,8,1.0,1954.3823515229635,84094.30036266295,1643.5241649245963,large positive residual only
+Qatar,QAT,True,large positive residual only,8,8,1.0,4676.965790017452,151523.30088372127,7086.692946236854,large positive residual only
+Saudi Arabia,SAU,True,large positive residual only,8,8,1.0,3884.92909388586,2538421.082272707,98615.85915054473,large positive residual only
+Seychelles,SYC,True,double-high,8,8,1.0,7009.521142405665,7423.890777631199,520.3791936471632,double-high
+Slovenia,SVN,True,large positive residual only,8,8,1.0,1995.505491525149,95411.87977856668,1903.949300548671,large positive residual only
+South Africa,ZAF,True,double-high,8,8,1.0,5409.666157523047,5225580.757914188,282686.4737949202,double-high
+Sri Lanka,LKA,True,large positive residual only,8,8,1.0,2984.6947305875296,1421827.1560855766,42437.20020574873,large positive residual only
+Taiwan,TWN,True,large positive residual only,8,8,1.0,5754.289893116154,765640.3384773007,44057.16461461963,large positive residual only
+Thailand,THA,True,double-high,8,8,1.0,2989.016017889867,2644486.3705035807,79044.1212052664,double-high
+Timor-Leste,TLS,True,double-high,8,8,1.0,2032.9274349477328,189336.0427119464,3849.0643565355153,double-high
+Tonga,TON,True,double-high,8,8,1.0,2218.845617449077,11083.30388210271,245.9214024565994,double-high
+Tunisia,TUN,True,large positive residual only,8,8,1.0,1258.1207984641142,818537.4930979975,10298.19044389267,large positive residual only
+Turkmenistan,TKM,True,large positive residual only,8,8,1.0,1463.212367663442,596989.0550738934,8735.217687438324,large positive residual only
+United Arab Emirates,ARE,True,large positive residual only,8,8,1.0,4226.396718562271,436164.408513648,18434.03824895736,large positive residual only
+Bermuda,BMU,True,large positive residual only,7,8,0.875,1954.877843432285,2372.393774926286,46.37740026500076,large positive residual only; neither
+Czechia,CZE,True,large positive residual only,7,8,0.875,1586.875561660096,562482.8674850685,8925.903162645494,large positive residual only; neither
+Estonia,EST,True,large positive residual only,7,8,0.875,1125.7581015136864,67778.41280578442,763.020973238508,large positive residual only; neither
+Lithuania,LTU,True,large positive residual only,7,8,0.875,1135.5596536726848,123884.520994066,1406.7826375542804,large positive residual only; neither
+Palestine,PSE,True,double-high,7,8,0.875,894.4049801049696,654789.4913122548,5856.469819500804,double-high; high estimated rate only
+Singapore,SGP,True,large positive residual only,7,8,0.875,1247.889682282072,251740.58466747624,3141.4447821819995,large positive residual only; neither
+Slovakia,SVK,True,large positive residual only,7,8,0.875,2237.838206293793,277368.5328690977,6207.059000781226,large positive residual only; neither
+Antigua and Barbuda,ATG,True,large positive residual only,6,8,0.75,822.4840487546699,5184.211347679857,42.63931138839632,large positive residual only; neither
+Azerbaijan,AZE,True,large positive residual only,6,8,0.75,1252.4361578488906,631336.5894710912,7907.087724265958,large positive residual only; neither
+Bahamas,BHS,True,large positive residual only,6,8,0.75,1279.583541136027,21100.197023232544,269.9946482565575,large positive residual only; neither
+Barbados,BRB,True,large positive residual only,6,8,0.75,897.9172078426436,13216.061354905343,118.6692891047367,large positive residual only; neither
+Bulgaria,BGR,True,large positive residual only,6,8,0.75,1185.8699766700238,302557.30344792194,3587.936223811325,large positive residual only; neither
+Croatia,HRV,True,large positive residual only,6,8,0.75,927.9412793664574,176101.54086416334,1634.1188912789619,large positive residual only; neither
+Dominica,DMA,True,large positive residual only,6,8,0.75,843.8455137113324,3340.554667501194,28.189120694783345,large positive residual only; neither
+Georgia,GEO,True,large positive residual only,6,8,0.75,1051.119848822069,224580.4014583178,2360.6091762926653,large positive residual only; neither
+Hungary,HUN,True,large positive residual only,6,8,0.75,1228.198702378569,454808.7554192552,5585.955232363412,large positive residual only; neither
+Latvia,LVA,True,large positive residual only,6,8,0.75,848.0815117506966,88970.54021628914,754.5427024790664,large positive residual only; neither
+Montenegro,MNE,True,large positive residual only,6,8,0.75,1244.6029049856645,36816.28041011225,458.21649549192523,large positive residual only; neither
+Namibia,NAM,True,double-high,6,8,0.75,680.9035341514073,340640.24416805763,2319.4314612822873,double-high; high estimated rate only
+Romania,ROU,True,large positive residual only,6,8,0.75,1076.5556770240132,911702.6281951978,9814.986401412534,large positive residual only; neither
+Saint Kitts and Nevis,KNA,True,large positive residual only,6,8,0.75,1078.3838427962924,2979.566752715131,32.13116644661013,large positive residual only; neither
+Türkiye,TUR,True,large positive residual only,6,8,0.75,1280.5261565064395,5418375.030179703,69383.70951906478,large positive residual only; neither
+United States Virgin Islands,VIR,True,large positive residual only,6,8,0.75,1153.6798074423418,4112.843613979266,47.449046286160645,large positive residual only; neither
+Bolivia (Plurinational State of),BOL,True,double-high,5,8,0.625,736.771405516135,1142219.6540728686,8415.54779939421,double-high; high estimated rate only
+China,CHN,True,large positive residual only,5,8,0.625,771.5055919338188,62163764.01010591,479596.9154945098,large positive residual only; neither
+Brunei Darussalam,BRN,False,neither,3,8,0.375,507.1943017224567,28009.523307230567,142.06270615389684,large positive residual only; neither
+Afghanistan,AFG,False,high estimated rate only,2,8,0.25,-4594.739435642949,6212734.329584645,-285458.9542731533,double-high; high estimated rate only
+Belarus,BLR,False,neither,2,8,0.25,615.5781600509026,436477.63105697377,2686.860970294286,large positive residual only; neither
+Burundi,BDI,False,high estimated rate only,2,8,0.25,-4913.28125703202,2327164.9126931075,-114340.15747557602,double-high; high estimated rate only
+Central African Republic,CAF,False,high estimated rate only,2,8,0.25,-3121.000029252222,1211182.4859615853,-37801.005741158864,double-high; high estimated rate only
+Chad,TCD,False,high estimated rate only,2,8,0.25,-5184.8728191218615,3996775.915722424,-207227.74809550084,double-high; high estimated rate only
+Democratic People's Republic of Korea,PRK,False,high estimated rate only,2,8,0.25,104.52927634931255,1490016.6971579716,1557.5036710231557,double-high; high estimated rate only
+Eritrea,ERI,False,high estimated rate only,2,8,0.25,-913.9401188581668,983453.7693027968,-8988.178548081103,double-high; high estimated rate only
+Lao People's Democratic Republic,LAO,False,high estimated rate only,2,8,0.25,-718.5953616741808,803503.460528847,-5773.938598251827,double-high; high estimated rate only
+Madagascar,MDG,False,high estimated rate only,2,8,0.25,-4287.225928837779,4628293.229229472,-198425.38738616926,double-high; high estimated rate only
+Myanmar,MMR,False,high estimated rate only,2,8,0.25,-687.2804004515237,5348170.898926012,-36756.93037097056,double-high; high estimated rate only
+Papua New Guinea,PNG,False,high estimated rate only,2,8,0.25,-2477.346813731543,1643935.147474981,-40725.97499578438,double-high; high estimated rate only
+South Sudan,SSD,False,high estimated rate only,2,8,0.25,-4145.822583778301,1397114.284709317,-57921.879536671535,double-high; high estimated rate only
+Yemen,YEM,False,high estimated rate only,2,8,0.25,-1608.9146251279908,4965326.943281002,-79887.87137586866,double-high; high estimated rate only
+Algeria,DZA,False,neither,1,8,0.125,105.936717719851,4461920.92833307,4726.81257873116,large positive residual only; neither
+Bangladesh,BGD,False,high estimated rate only,1,8,0.125,-1643.2338844608769,16175729.18158188,-265805.06297037954,double-high; high estimated rate only
+Cambodia,KHM,False,high estimated rate only,1,8,0.125,-1817.6970792494467,1736870.8128614358,-31571.050035718443,double-high; high estimated rate only
+Guinea,GIN,False,high estimated rate only,1,8,0.125,-5086.622111544091,2342243.447553988,-119141.07310947379,double-high; high estimated rate only
+Kiribati,KIR,False,high estimated rate only,1,8,0.125,-1139.3537489691462,14931.079013285836,-170.11780849941758,double-high; high estimated rate only
+Maldives,MDV,False,neither,1,8,0.125,144.05173527384613,31902.204965732188,45.95567984375632,large positive residual only; neither
+Niger,NER,False,high estimated rate only,1,8,0.125,-7402.466718900258,5442833.322532686,-402903.9252656952,double-high; high estimated rate only
+Rwanda,RWA,False,high estimated rate only,1,8,0.125,-2448.486441408817,1770029.3762539155,-43338.92928653017,double-high; high estimated rate only
+Samoa,WSM,False,high estimated rate only,1,8,0.125,219.1877227969553,29620.99023323351,64.92557396213309,double-high; high estimated rate only
+Somalia,SOM,False,high estimated rate only,1,8,0.125,-7182.531460387745,4116421.289804058,-295663.25418227544,double-high; high estimated rate only
+Sudan,SDN,False,high estimated rate only,1,8,0.125,-706.2710455217493,4184821.711078522,-29556.184052055436,double-high; high estimated rate only
+Syrian Arab Republic,SYR,False,high estimated rate only,1,8,0.125,-444.4259491231896,1321865.7611608573,-5874.714455173614,double-high; high estimated rate only
+Tuvalu,TUV,False,high estimated rate only,1,8,0.125,233.05092735951348,1196.0119314007045,2.78731689745977,double-high; high estimated rate only
+United Republic of Tanzania,TZA,False,high estimated rate only,1,8,0.125,-2257.105327414265,9874343.11382794,-222874.32446937406,double-high; high estimated rate only
+Viet Nam,VNM,False,neither,1,8,0.125,564.9017459781107,7850619.298573905,44348.285487738496,large positive residual only; neither
+Zimbabwe,ZWE,False,high estimated rate only,1,8,0.125,-1315.1952606661034,2198137.3605147675,-28909.7983884212,double-high; high estimated rate only
+Albania,ALB,False,neither,0,8,0.0,-166.3186415382797,118996.87963523708,-197.9139936822681,neither
+Andorra,AND,False,neither,0,8,0.0,-200.4983159064324,2360.405940554894,-4.732574159367949,neither
+Angola,AGO,False,neither,0,8,0.0,-4442.174609938233,5906389.314396403,-262372.12648822187,neither
+Argentina,ARG,False,neither,0,8,0.0,-477.8212899702344,2782523.8322800617,-13295.49126912979,neither
+Armenia,ARM,False,neither,0,8,0.0,588.0343462746923,170494.7915600095,1002.5679329823012,neither
+Australia,AUS,False,neither,0,8,0.0,-795.112417498484,1502490.78671653,-11946.490816953792,neither
+Austria,AUT,False,neither,0,8,0.0,-422.2538026530425,429575.3730888497,-1813.8983481286625,neither
+Belgium,BEL,False,neither,0,8,0.0,-196.94976142038772,586381.3930553258,-1154.8767546360102,neither
+Belize,BLZ,False,neither,0,8,0.0,-3254.8677071023058,35994.304101532034,-1171.566980596967,neither
+Benin,BEN,False,high estimated rate only,0,8,0.0,-5774.735824784792,2350071.2096501407,-135710.40405162002,high estimated rate only
+Bhutan,BTN,False,neither,0,8,0.0,-4073.952633081134,50915.50747097213,-2074.2736572602907,neither
+Bosnia and Herzegovina,BIH,False,neither,0,8,0.0,-345.15248612902224,141026.7038352425,-486.7571743931526,neither
+Burkina Faso,BFA,False,neither,0,8,0.0,-10014.712673632825,4429995.547923135,-443651.32557922805,neither
+Cabo Verde,CPV,False,neither,0,8,0.0,-4228.320764264038,37884.29559949132,-1601.8695372284587,neither
+Cameroon,CMR,False,high estimated rate only,0,8,0.0,-4352.1488211997785,5135557.83296531,-223507.1196894326,high estimated rate only
+Canada,CAN,False,neither,0,8,0.0,-407.2537306232973,1855325.9278502665,-7555.8840563915155,neither
+Chile,CHL,False,neither,0,8,0.0,-521.2207112548294,967571.9015276106,-5043.18514704409,neither
+Colombia,COL,False,neither,0,8,0.0,-1792.6068437404624,3711292.7079764702,-66528.88707442694,neither
+Comoros,COM,False,high estimated rate only,0,8,0.0,-2442.940324288067,106813.1712315223,-2609.3820316657193,high estimated rate only
+Congo,COG,False,neither,0,8,0.0,-1589.4481113794163,770025.1960850573,-12239.150936319593,neither
+Costa Rica,CRI,False,neither,0,8,0.0,-1752.357967449383,287576.492970473,-5039.369587079599,neither
+Cuba,CUB,False,neither,0,8,0.0,-730.4416033488396,514621.1064571,-3759.0066611767807,neither
+Cyprus,CYP,False,neither,0,8,0.0,-677.2488900984275,76253.19217266756,-516.4238976540121,neither
+Côte d'Ivoire,CIV,False,neither,0,8,0.0,-5590.552677716991,4970274.943932738,-277865.8389679284,neither
+Democratic Republic of the Congo,COD,False,high estimated rate only,0,8,0.0,-4438.259080796177,14606227.34317942,-648262.2114203947,high estimated rate only
+Denmark,DNK,False,neither,0,8,0.0,195.15268722742576,305844.67716253427,596.8641062247306,neither
+Djibouti,DJI,False,high estimated rate only,0,8,0.0,-2302.1649938887185,170204.1447554842,-3918.3802387084384,high estimated rate only
+Dominican Republic,DOM,False,neither,0,8,0.0,-2211.092663961548,1016191.4291244472,-22468.934141176665,neither
+Ecuador,ECU,False,neither,0,8,0.0,382.7201250668504,1487188.2332113562,5691.768666125985,neither
+El Salvador,SLV,False,neither,0,8,0.0,-4339.435172264442,439504.0128527905,-19071.991717247623,neither
+Equatorial Guinea,GNQ,False,neither,0,8,0.0,-658.3501506815201,203558.8617236681,-1340.130072883356,neither
+Eswatini,SWZ,False,high estimated rate only,0,8,0.0,-194.17243555247117,133770.41574481313,-259.74527430037006,high estimated rate only
+Ethiopia,ETH,False,high estimated rate only,0,8,0.0,-5923.537359493608,16402035.087166876,-971580.6761055798,high estimated rate only
+Finland,FIN,False,neither,0,8,0.0,-24.067637682050982,235520.88422058657,-56.68431307977356,neither
+France,FRA,False,neither,0,8,0.0,-405.8987645661796,3618556.3535410855,-14687.675534154263,neither
+Gabon,GAB,False,neither,0,8,0.0,-566.4170299305861,236439.2015726553,-1339.2319031394256,neither
+Gambia,GMB,False,high estimated rate only,0,8,0.0,-5214.7998981551045,363144.7368305759,-18937.271366396497,high estimated rate only
+Germany,DEU,False,neither,0,8,0.0,-105.8637908638426,3950164.737034171,-4181.794135991113,neither
+Ghana,GHA,False,neither,0,8,0.0,-2333.2227910732336,4291815.354876952,-100137.61401076964,neither
+Greece,GRC,False,neither,0,8,0.0,-877.2915476235247,407963.99852488143,-3579.0336764057456,neither
+Greenland,GRL,False,neither,0,8,0.0,-534.4262645129003,3949.172738376703,-21.105416344868424,neither
+Grenada,GRD,False,neither,0,8,0.0,-1182.2157768851594,7130.455533201499,-84.29737027728893,neither
+Guatemala,GTM,False,neither,0,8,0.0,-4890.763144185189,1703055.0565649385,-83292.38903166023,neither
+Guinea-Bissau,GNB,False,high estimated rate only,0,8,0.0,-6641.536385696145,333711.1659300036,-22163.548508372027,high estimated rate only
+Guyana,GUY,False,neither,0,8,0.0,-1336.048539741631,73901.16844364327,-987.355481843299,neither
+Haiti,HTI,False,high estimated rate only,0,8,0.0,-3548.4234488418606,1646631.0906479126,-58429.443736471,high estimated rate only
+Honduras,HND,False,neither,0,8,0.0,-7652.071943771475,1209887.9777596877,-92581.49849721314,neither
+Iceland,ISL,False,neither,0,8,0.0,-92.0264666013336,23074.971483219226,-21.23508092527199,neither
+Iran (Islamic Republic of),IRN,False,neither,0,8,0.0,-1371.5841588381986,5592652.277894355,-76707.93270250266,neither
+Ireland,IRL,False,neither,0,8,0.0,72.79317543948207,297339.9060262284,216.44315944526355,neither
+Israel,ISR,False,neither,0,8,0.0,-690.2638012355194,942390.1404466968,-6504.9780059161185,neither
+Italy,ITA,False,neither,0,8,0.0,-826.7043720543071,2088221.274922096,-17263.41657794916,neither
+Jamaica,JAM,False,neither,0,8,0.0,-1493.4399583095856,186851.62642109417,-2790.5168517239713,neither
+Japan,JPN,False,neither,0,8,0.0,272.9688050998941,4132140.85763017,11279.455524117591,neither
+Kazakhstan,KAZ,False,neither,0,8,0.0,-476.162480463764,2074795.7068552093,-9879.39870231745,neither
+Kyrgyzstan,KGZ,False,neither,0,8,0.0,-2552.4002037350474,792060.6418350603,-20216.557435903203,neither
+Liberia,LBR,False,high estimated rate only,0,8,0.0,-5590.512880920236,764357.1495307451,-42731.48490075106,high estimated rate only
+Luxembourg,LUX,False,neither,0,8,0.0,-53.93643807222759,33954.67125607925,-18.313940234663647,neither
+Malawi,MWI,False,high estimated rate only,0,8,0.0,-5426.554159123478,2924916.737642294,-158722.19087742665,high estimated rate only
+Mali,MLI,False,high estimated rate only,0,8,0.0,-9576.858875655602,4600201.221757113,-440554.7790038635,high estimated rate only
+Malta,MLT,False,neither,0,8,0.0,-938.2409373098844,23586.96514353152,-221.30256284562589,neither
+Mauritania,MRT,False,high estimated rate only,0,8,0.0,-2369.0195447285187,665793.0934039786,-15772.768510192855,high estimated rate only
+Mexico,MEX,False,neither,0,8,0.0,-3300.992401720129,9191611.840562612,-303414.4084525795,neither
+Micronesia (Federated States of),FSM,False,neither,0,8,0.0,-2012.4082200777084,9497.376081104836,-191.12597694784782,neither
+Monaco,MCO,False,neither,0,8,0.0,163.0390430843389,1607.8010524433598,2.621343450603584,neither
+Mongolia,MNG,False,neither,0,8,0.0,-1393.6570755307655,382299.7321581855,-5327.947266957717,neither
+Morocco,MAR,False,neither,0,8,0.0,-1003.679110403552,2619448.584083098,-26290.85824620368,neither
+Mozambique,MOZ,False,neither,0,8,0.0,-9448.195306641988,5596219.382083319,-528741.7370073854,neither
+Nepal,NPL,False,high estimated rate only,0,8,0.0,-3829.2082022003815,2835483.5293214847,-108576.56787681916,high estimated rate only
+Netherlands,NLD,False,neither,0,8,0.0,5.5337738370399165,867274.5860207886,47.993014136514645,neither
+New Zealand,NZL,False,neither,0,8,0.0,-176.1939734481307,298054.29960199934,-525.1537135017586,neither
+Nicaragua,NIC,False,neither,0,8,0.0,-6857.729441329998,634045.2128044134,-43481.10522983169,neither
+North Macedonia,MKD,False,neither,0,8,0.0,347.80620651223853,93914.77891037622,326.64142988253536,neither
+Norway,NOR,False,neither,0,8,0.0,344.79672733198913,275672.9921607992,950.5114551086067,neither
+Panama,PAN,False,neither,0,8,0.0,-1165.6720635725917,346279.14688995085,-4036.479277273656,neither
+Paraguay,PRY,False,neither,0,8,0.0,-1113.8428077241688,542539.7490798669,-6043.03997417085,neither
+Peru,PER,False,neither,0,8,0.0,469.0321072234083,3067508.468708151,14387.599610038345,neither
+Portugal,PRT,False,neither,0,8,0.0,-1665.083789482097,421154.330389155,-7012.572484011693,neither
+Republic of Korea,KOR,False,neither,0,8,0.0,607.2281166622371,1361690.2227310238,8268.565894263418,neither
+Republic of Moldova,MDA,False,neither,0,8,0.0,-550.6518708965618,147439.9386745126,-811.8807807599471,neither
+Russian Federation,RUS,False,neither,0,8,0.0,45.45485188604312,6254281.616809885,2842.8744454569564,neither
+Saint Lucia,LCA,False,neither,0,8,0.0,-708.5738364345343,9365.052087010925,-66.35830885702573,neither
+Saint Vincent and the Grenadines,VCT,False,neither,0,8,0.0,-2481.668860513209,6751.781766580486,-167.55686563103654,neither
+San Marino,SMR,False,neither,0,8,0.0,-176.4340525608411,1150.7462380138677,-2.030308222419289,neither
+Sao Tome and Principe,STP,False,neither,0,8,0.0,-4256.51015351153,22214.632630054683,-945.5680934635631,neither
+Senegal,SEN,False,neither,0,8,0.0,-7039.071913925862,2708899.117690927,-190681.35696996748,neither
+Serbia,SRB,False,neither,0,8,0.0,163.6300359600814,345896.04416921735,565.9898214585894,neither
+Sierra Leone,SLE,False,high estimated rate only,0,8,0.0,-4951.920845735876,1096701.9211949697,-54307.81105123955,high estimated rate only
+Solomon Islands,SLB,False,high estimated rate only,0,8,0.0,-2985.388267357799,112933.20832401232,-3371.494751255805,high estimated rate only
+Spain,ESP,False,neither,0,8,0.0,-1168.4834884217828,1769424.691312506,-20675.435358044735,neither
+Suriname,SUR,False,neither,0,8,0.0,-2216.1706399597674,45422.61157767751,-1006.6425816874552,neither
+Sweden,SWE,False,neither,0,8,0.0,114.94779156450647,563681.1039771353,647.9389804881465,neither
+Switzerland,CHE,False,neither,0,8,0.0,313.4552401962084,434327.0657144656,1361.4209470724222,neither
+Tajikistan,TJK,False,neither,0,8,0.0,-3605.088789730228,1349135.7638343796,-48637.54218023451,neither
+Togo,TGO,False,high estimated rate only,0,8,0.0,-3598.6540115533808,1141775.962684013,-41088.56648408046,high estimated rate only
+Trinidad and Tobago,TTO,False,neither,0,8,0.0,-154.55571305494232,71919.51340836691,-111.15571677394632,neither
+Uganda,UGA,False,high estimated rate only,0,8,0.0,-4605.47401003067,7506677.15806234,-345718.06553146994,high estimated rate only
+Ukraine,UKR,False,neither,0,8,0.0,-1021.6720264195015,1263550.683334703,-12909.34387126312,neither
+United Kingdom,GBR,False,neither,0,8,0.0,-247.6245475161088,3562027.94922158,-8820.455591657266,neither
+United States of America,USA,False,neither,0,8,0.0,-158.9305448901348,18528047.630820863,-29446.72705716731,neither
+Uruguay,URY,False,neither,0,8,0.0,-1054.685623839714,174873.64194124733,-1844.3671614392722,neither
+Uzbekistan,UZB,False,neither,0,8,0.0,-1171.5656910633145,4121680.6320996857,-48288.196180881474,neither
+Vanuatu,VUT,False,high estimated rate only,0,8,0.0,-2628.563711711029,43649.45980010274,-1147.3538606633942,high estimated rate only
+Venezuela (Bolivarian Republic of),VEN,False,neither,0,8,0.0,-5274.999218579849,1555902.8077276135,-82073.86094949354,neither
+Zambia,ZMB,False,neither,0,8,0.0,-4836.815537870862,3229105.55669225,-156185.87930034215,neither
